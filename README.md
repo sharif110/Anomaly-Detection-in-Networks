@@ -1,1 +1,1 @@
-﻿# Inomoly Detection in Networks
+﻿# Anomaly Detection in Networks
